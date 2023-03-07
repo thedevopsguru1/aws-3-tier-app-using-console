@@ -7,5 +7,5 @@
  ```
  ![image](https://user-images.githubusercontent.com/107158398/223580352-457f2b62-239d-41a3-a245-d4fdc04e90d0.png)
 
-#### Add target group and load balancer
+#### Add target group and load balancer : http redirect to https
 #### add the certificate and the dns
