@@ -5,6 +5,7 @@
  ```
  curl -ILkv ip_add_webserver
  ```
- 
+ ![image](https://user-images.githubusercontent.com/107158398/223580352-457f2b62-239d-41a3-a245-d4fdc04e90d0.png)
+
 #### Add target group and load balancer
 #### add the certificate and the dns
